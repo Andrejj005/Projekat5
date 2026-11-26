@@ -1,0 +1,19 @@
+STATUS: Player[Semir] @ (12,9) HP=0
+
+NEPRIJATELJI (5):
+  MeleeEnemy[Goblin] @ (12,5) DMG=20 HP=60
+  MeleeEnemy[Orc] @ (100,100) DMG=30 HP=80
+  BossEnemy[Orc Shaman] @ (18,4) DMG=35x2 HP=70
+  MeleeEnemy[Skeleton Archer] @ (10,6) DMG=15 HP=50
+  BossEnemy[Lich Lord] @ (200,150) DMG=40x2 HP=100
+
+U KOLIZIJI SA IGRAČEM (3):
+  Goblin
+  Orc Shaman
+  Skeleton Archer
+
+LOG:
+  Goblin napada za 20 -> HP igraca: 80
+  Orc Shaman napada za 70 -> HP igraca: 10
+  Skeleton Archer napada za 15 -> HP igraca: 0
+  Igrac Semir je poražen!
